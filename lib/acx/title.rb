@@ -20,7 +20,7 @@ module Acx
     end
 
     def detail_page
-      "https://www.acx.com/titleview/#{@uuid}"
+      "https://www.acx.com/titleview/#{@uid}"
     end
 
     def detail_field(name)

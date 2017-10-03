@@ -1,0 +1,789 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+	  <meta http-equiv="X-UA-Compatible" content="IE-8"/>
+	  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	  <title>Appointment with the King: Ideas for Jump-starting Your Devotional Life - Audiobook Creation Exchange (ACX)</title>
+	  
+
+
+
+
+
+
+  <link rel="stylesheet" type="text/css" href="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/inca/css/build/acx-common-3361757479._CB514923786_.css" />
+
+
+
+
+
+
+<!-- 
+
+ -->
+<link rel="shortcut icon" type="image/x-icon" href="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/favicon.ico" />
+<link rel="icon" type="image/x-icon" href="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/favicon.ico" />
+
+
+
+
+
+
+
+
+	  
+
+
+
+
+
+
+  <link rel="stylesheet" type="text/css" href="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/inca/css/build/acx-title-profile-42712044._CB514923804_.css" />
+
+
+
+
+
+
+<!-- 
+
+ -->
+<link rel="shortcut icon" type="image/x-icon" href="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/favicon.ico" />
+<link rel="icon" type="image/x-icon" href="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/favicon.ico" />
+
+
+
+
+
+
+
+
+	  
+	  
+	  
+	  
+      
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+
+ -->
+<link rel="shortcut icon" type="image/x-icon" href="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/favicon.ico" />
+<link rel="icon" type="image/x-icon" href="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/favicon.ico" />
+
+
+  <meta name="description" content="Audiobook Creation Exchange">
+
+
+
+  <meta name="keywords" content="Narrators,Authors,Publishers ">
+
+
+<link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/AmazonUI-74e418e1348846c10745bcad1475d78391c43180.rendering_engine-not-trident.secure.min._V2_.css" />
+<script>
+(function(n,a,k,l){function j(a,b){E&&E.count&&E.count("aui:"+a,b===0?0:b||(E.count("aui:"+a)||0)+1)}function i(a,b,c){a.addEventListener?a.addEventListener(b,c,!1):a.attachEvent&&a.attachEvent("on"+b,c)}function h(a,b,c,d){b=b&&c?b+a+c:b||c;return d?h(a,b,d):b}function g(a,b){try{Object.defineProperty(n,a,{value:b})}catch(c){n[a]=b}}function f(){return setTimeout(C,0)}function e(a,b){var c=a.length,d=c,e=function(){d--||(D.push(b),v||(f(),v=!0))};for(e();c--;)z[a[c]]?e():(m[a[c]]=m[a[c]]||[]).push(e)}
+function d(b,c,d,e){var f=a.createElement(b?"script":"link");i(f,"error",e);b?(f.type="text/javascript",f.async=!0,d&&(c.indexOf("images/I")!==-1||/AUIClients/.test(c))&&f.setAttribute("crossorigin","anonymous"),f.src=c):(f.rel="stylesheet",f.href=c);a.getElementsByTagName("head")[0].appendChild(f)}function c(a,b){return function(c){function e(){d(b,c,f,function(){f?(f=!1,j("resource_retry"),e()):(j("resource_error"),a.log("Asset failed to load: "+c))})}if(F[c])return!1;F[c]=!0;j("resource_count");
+var f=!0;return!e()}}function b(a,b,c,d,f){return function(g,h){var i=f||this;typeof g==="function"&&(h=g,g="anon"+I++);var j=i.guardError(g,function(){for(var c=[],e=0;e<a.length;e++)c[e]=M.hasOwnProperty(a[e])?M[a[e]]:l;e=null;d?e=h:typeof h==="function"&&(e=h.apply(n,c));if(b){M[g]=e;c=g;for(z[c]=!0;(m[c]||[]).length;)m[c].shift()();delete m[c]}});M.hasOwnProperty(g)&&i.error("Component already registered",g);M[g]=l;c?j():e(a,j)}}function o(a){return function(){return{execute:b(arguments,!1,a,
+!1,this),register:b(arguments,!0,a,!1,this)}}}function p(a,b){return function(c,d){var e=this;return function(){d||(d=c,c=l);try{d.apply(this,arguments)}catch(f){var g=n.console;if(g&&g.error&&e.log(f,b,c))g.error(h(String.fromCharCode(10),h(": ",a,c,f.message),f.stack||f));else throw f instanceof Error?f:Error(h(": ",a,c,f));}}}}function r(a){this.log=function(b,c,d){var e=n.ueLogError;return e?(e({message:b,logLevel:c||"ERROR",attribution:h(":",a,d)}),!0):!1};this.error=function(b,c,d,e){throw Error(h(" @ ",
+h(":",e,b),h(":",a,c,d)));};this.guardError=p(a);this.guardFatal=p(a,"FATAL");this.load={js:c(this,!0),css:c(this)}}function t(a,b){for(var c=a.className.split(" "),d=c.length;d--;)if(c[d]===b)return;a.className+=" "+b}function q(a,b){for(var c=a.className.split(" "),d=[],e;(e=c.pop())!==l;)e&&e!==b&&d.push(e);a.className=d.join(" ")}function x(a){try{return a()}catch(b){return!1}}function s(){if(qa){var a=n.innerWidth?{w:n.innerWidth,h:n.innerHeight}:{w:G.clientWidth,h:G.clientHeight},b=!1;Math.abs(a.w-
+ta.w)>5||a.h-ta.h>50?(ta=a,ua=4,(b=Q.mobile||Q.tablet?a.w>a.h:a.w>=1250)?t(G,"a-ws"):q(G,"a-ws")):ua--&&(va=setTimeout(s,16))}}function u(){clearTimeout(va);ua=4;s()}function w(a){(qa=a===l?!qa:!!a)&&s()}function y(){return qa}var A=n.AmazonUIPageJS||n.P;if(A&&A.when&&A.register)throw Error("A copy of P has already been loaded on this page.");var E=n.ue;E&&E.tag&&(E.tag("aui"),E.tag("aui:aui_build_date:3.15.5.4-2015-07-06"));var B=k.now=k.now||function(){return+new k},D=[],v=!1,C;C=function(){for(var a=
+f(),b=B();D.length;)if(D.shift()(),B()-b>50)return;clearTimeout(a);v=!1};(function(a){try{return a.test(navigator.userAgent)}catch(b){return!1}})(/OS 6_[0-9]+ like Mac OS X/i)&&i(n,"scroll",f);var z={},m={},F={},I=0,M={},J;r.prototype={declare:b([],!0,!0,!0),register:b([],!0),execute:b([]),AUI_BUILD_DATE:"3.15.5.4-2015-07-06",when:o(),now:o(!0),trigger:function(a,b){var c=n.aPageStart||NaN,d=B(),c={data:b,pageElapsedTime:d-c,triggerTime:d};this.declare(a,c);J&&J(a,c)},handleTriggers:function(a){J&&
+this.error("Trigger handler already registered");J=a},attributeErrors:function(a){return new r(a)}};g("AmazonUIPageJS",new r);g("P",n.AmazonUIPageJS);if(a.addEventListener){var K;a.addEventListener("DOMContentLoaded",K=function(){n.AmazonUIPageJS.trigger("a-domready");a.removeEventListener("DOMContentLoaded",K,!1)},!1)}var G=a.documentElement,H;try{H=navigator.userAgent}catch(T){H=""}var sa=function(){var b="Khtml,O,ms,Moz,Webkit".split(","),c=a.createElement("div");return{testGradients:function(){c.style.cssText=
+("background-image:"+"-webkit- ".split(" ").join("gradient(linear,left top,right bottom,from(#9f9),to(white));background-image:")+b.join("linear-gradient(left top,#9f9, white);background-image:")).slice(0,-17);return c.style.backgroundImage.indexOf("gradient")>-1},test:function(a){for(var d=a.charAt(0).toUpperCase()+a.substr(1),a=(b.join(d+" ")+d+" "+a).split(" "),d=a.length;d--;)if(c.style[a[d]]==="")return!0;return!1},testTransform3d:function(){var a=!1;if(n.matchMedia)a=n.matchMedia("(-webkit-transform-3d)").matches;
+return a}}}(),A=G.className,ya=/(^| )a-mobile( |$)/.test(A),ka=/(^| )a-tablet( |$)/.test(A),Q={audio:function(){return!!a.createElement("audio").canPlayType},video:function(){return!!a.createElement("video").canPlayType},canvas:function(){return!!a.createElement("canvas").getContext},offline:function(){return navigator.hasOwnProperty&&navigator.hasOwnProperty("onLine")&&navigator.onLine},dragDrop:function(){return"draggable"in a.createElement("span")},geolocation:function(){return!!navigator.geolocation},
+history:function(){return!(!n.history||!n.history.pushState)},webworker:function(){return!!n.Worker},autofocus:function(){return"autofocus"in a.createElement("input")},inputPlaceholder:function(){return"placeholder"in a.createElement("input")},textareaPlaceholder:function(){return"placeholder"in a.createElement("textarea")},localStorage:function(){return"localStorage"in n&&n.localStorage!==null},orientation:function(){return"orientation"in n},touch:function(){return"ontouchend"in a},gradients:function(){return sa.testGradients()},
+hires:function(){var a=n.devicePixelRatio&&n.devicePixelRatio>=1.5||n.matchMedia&&n.matchMedia("(min-resolution:144dpi)").matches;j("hiRes"+(ya?"Mobile":ka?"Tablet":"Desktop"),a?1:0);return a},transform3d:function(){return sa.testTransform3d()},touchScrolling:function(){return RegExp("Windowshop|android.([3-9]|[L-Z])|OS ([5-9]|[1-9][0-9]+)(_[0-9]{1,2})+ like Mac OS X|Chrome|Silk|Firefox|Trident"+String.fromCharCode(92)+"/.+?; Touch","i").test(H)},ios:function(){return!!H.match(/OS [1-9][0-9]*(_[0-9]*)+ like Mac OS X/i)},
+android:function(){return!!H.match(/android.([1-9]|[L-Z])/i)&&!/trident/i.test(H)},mobile:function(){return ya},tablet:function(){return ka}},aa;for(aa in Q)Q.hasOwnProperty(aa)&&(Q[aa]=x(Q[aa]));for(var da="textShadow textStroke boxShadow borderRadius borderImage opacity transform transition".split(" "),ca=0;ca<da.length;ca++)Q[da[ca]]=x(function(){return sa.test(da[ca])});var qa=!0,va=0,ta={w:0,h:0},ua=4;s();typeof n.addEventListener==="function"?n.addEventListener("resize",u,!1):n.attachEvent("onresize",
+u);q(G,"a-no-js");t(G,"a-js");A=[];for(aa in Q)Q.hasOwnProperty(aa)&&Q[aa]&&A.push("a-"+aa.replace(/([A-Z])/g,function(a){return"-"+a.toLowerCase()}));t(G,A.join(" "));G.setAttribute("data-aui-build-date",n.AmazonUIPageJS.AUI_BUILD_DATE);n.AmazonUIPageJS.register("p-detect",function(){return{capabilities:Q,toggleResponsiveGrid:w,responsiveGridEnabled:y}})})(window,document,Date);
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/AmazonUI-0f592f6f6830da6c2e97e5fe6b1b61d52b5c7e48.rendering_engine-not-trident.secure.min._V2_.js');
+</script>
+
+
+
+	  
+	  
+      
+	  <script>window.onload = function(){ if ( $.browser.msie ){var bVer = parseInt($.browser.version, 10); if(bVer == 9 || document.documentMode==7){ if(!checkCookie('sawMsg')){ var msgDiv = document.createElement('div'); var msgCloseBtn = document.createElement('span'); var msgTxtP = document.createElement('p'); $(msgTxtP).html('ACX is currently impacted by issues associated with all Internet Explorer versions and our audio and cover art upload process. <a href="https://www.acx.com/help/201067480">Click here</a> to learn more.'); $(msgCloseBtn).text('X'); $(msgCloseBtn).css({'color':'#ff3333','float':'right'}); $(msgCloseBtn).css('cursor','pointer'); $(msgCloseBtn).click(function(){ $(msgDiv).slideUp('slow'); setCookie('sawMsg','true',15); });$(msgDiv).append(msgCloseBtn); $(msgDiv).append(msgTxtP); $(msgDiv).css({'display':'none','background-color':'#eeeeee','border':'1px solid #0000ff','left':'0','padding':'5px 5px 10px 10px','position':'absolute','text-align':'center','top':'0','width':'98.7%','z-index':'2000'}); $(msgTxtP).css({'padding-top':'5px','padding-right':'10px','text-align':'center'}); $('body').append(msgDiv); $(msgDiv).slideDown('slow'); } } } /*begin temp header message*//*end temp header message*/ }; function setCookie(c_name,value,exdays){ var exdate=new Date(); exdate.setDate(exdate.getDate() + exdays); var c_value=escape(value) + ((exdays==null) ? '' : '; expires='+exdate.toUTCString()); document.cookie=c_name + '=' + c_value; }  function checkCookie(cName){ var cookiename=getCookie(cName); if (cookiename!=null && cookiename!=''){ return true; } return false; } function getCookie(c_name){ var i,x,y,ARRcookies=document.cookie.split(';'); for (i=0;i<ARRcookies.length;i++){ x=ARRcookies[i].substr(0,ARRcookies[i].indexOf('=')); y=ARRcookies[i].substr(ARRcookies[i].indexOf('=')+1);x=x.replace(' ','');if (x==c_name){ return x; } } }</script><link href='https://fonts.googleapis.com/icon?family=Material+Icons' rel='stylesheet'><style>#pageIddashboard #bottomSlots, #pageIddashboard #footerSlots{display:none;}#pageId600 #right-1{display:none;}.dashboardInfo{max-width:600px;}#dashboardDetails .lineItemTitleInfo{width:375px;}.dashboardlinks{margin-top:20px;}#salesDashboard #altFrom, #salesDashboard #altTo{top:0;}#personalInfo .largeButton input{padding:0;}.accountSettingsOld .secondContainer{width:45% !important;} #paymentDataNew .largeButton input{padding:0;}#accountIntermediate .largeButton a{min-width: 150px;}#accountIntermediate .lastButtonWide {margin:10px 0;width: 405px;}#accountIntermediate .lastButtonWide a{width: 350px;}.bankContainer .bank-location-specific{display:none;}#leftColumn{max-width:295px;}#accountSettings{margin-bottom:40px;}.pm .p-section .summary{color:#333;}.p-section .summary .fileNameArea{color:#0066c0;}.sec-audio .audio{padding:10px 0;}.user-data div p, .user-data div span{text-align:left;padding-left:15px;}#pageIddashboard .ui-datepicker{width:17em;}.uploadSampleForm #caption, .uploadSampleForm #sampleAudio{margin-bottom:15px;}.uploadSampleForm #description{width:95%;}.uploadSampleForm .charcounter{display:block;}.sponsoredTitle{background:url("https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/icons/funded-top.png") no-repeat right top;}.sponsoredResult{background:url("https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/icons/funded-bottom.png") no-repeat right bottom;}.ui-dialog .ui-dialog-content{padding:0.5em;}.confirmationDialogContent{padding:10px !important;}.confirmationDialogContent .buttonContainer{float:right;padding:20px 0 0;}.confirmationDialogContent .buttonContainer .prodButtonDiv a{color:#000 !important;}.confirmationDialogContent .message h2{font-size:18px !important;}.confirmationDialogContent .message ol, .confirmationDialogContent .message ul{color:#000;text-align:left;line-height:21px !important;}.confirmationDialogContent .message p, .confirmationDialogContent .message ol li, .confirmationDialogContent .message ul li{font-size:13px !important;}div.confirmationDialogContent p.inflight_popup{font-size:11px !important;line-height: 5px !important;}.helpNavMenu{width:235px;}.helpModule ul{padding-left:5px;}#sampleSubmission .fileSelect{margin-top:15px;padding-left:15px;}#rightsAssertionTitleDescriptionPanel{overflow:hidden;}#TitleCreativeBrief{margin-bottom:0;padding-bottom:0;}.addAuditionScriptSection{padding-bottom:0;}#auditionScriptTextArea{margin-bottom:10px;}.messageListColumnActions{width:18%;}#clearAllFilters{clear:left;}.ui-draggable .ui-dialog-titlebar{display: block;}.reportTable h2{margin-bottom:33px;}#pageIddashboard #salesDashboard .filterSection .largeButton a{box-shadow:0px 0px 0px;}#keywordSearchInput.clearable{margin-left:0px;}#pageId0 #middleWrapperContent{width:965px;}#titleViewSummary #innerImage span{text-align:center;}.section-case-studies .case-studies li{position:relative;}.section-case-studies .case-studies li h3{padding: 0px;bottom: 10px;position: absolute;left: 102px;}#dashboardDetails .lineItemAuditionCount a{line-height:14px;}.narrHead{display:none;}.pm .p-section .summary .dojoDndHandle:hover{	background-image:url("https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/2016_Update/grip-on.png");}</style>
+	  <!--[if lte IE 8]> <![endif]-->
+	  <!--[if lte IE 8]> <![endif]-->
+	</head>
+
+	<body id="pageId100" class="claro ">
+		<div id="wrapper">
+			<div id="innerWrapper">
+				<div id="topSlots">
+					<div id="top-1">
+
+
+
+
+
+
+
+
+<div id= "dateViewFormatDiv" class="hidden">mm/dd/yy</div>
+<div id= "dateViewFormatDivTest" class="hidden">mm/dd/yy</div>
+<a name="top"></a>
+
+
+
+
+<div id="top-nav">
+
+
+
+	<ul>
+	
+	
+	
+		<li><a href="/dashboard" class ="seleniumSignInLink">Login</a></li>
+		<li class="nav-special"><a href="/dashboard" class="seleniumJoinACXLink">Sign Up Now</a></li>
+	
+	
+	</ul>
+
+
+</div>
+
+<div id="main-nav">
+	<a href="/"><img src="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/2016_Update/acxLogo.png" /></a>
+	
+	
+	<ul>
+		<li><a href="/help/200484860">About ACX</a></li>
+		<li><a href="/help/200484210">How it Works</a></li>
+		<li><a href="/help/promote-yourself/200485310">Promote Yourself</a></li>
+		<li><a href="http://audible-acx.custhelp.com">Need Help?</a></li>
+		<li class="nav-search"><a href="javascript:void(0);">Search</a></li>
+	</ul>
+	<div class="nav-search-drop">
+		<ul>
+			<li class="search-narr"><a href="/ss">Producers for Hire</a></li>
+			<li><a href="/ts">Titles accepting auditions</a></li>
+		</ul>
+		<img src="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/anchor-search.png" />
+	</div>
+	
+</div>
+
+
+</div>
+					<div id="top-2"></div>
+					<div id="top-3"></div>
+					<div id="top-4"></div>
+					<div id="top-5"></div>
+					<div id="top-6"></div>
+					<div id="top-7"></div>
+					<div id="top-8"></div>
+					<div id="top-9"></div>
+					<div id="top-10"></div>
+				</div>
+				
+                <div id="middleWrapper" align="center">
+                    <div id="middleWrapperContent">
+        				<div id="leftColumn" class="floatLeft">
+        					<div id="left-1"></div>
+        					<div id="left-2"></div>
+        					<div id="left-3"></div>
+        					<div id="left-4"></div>
+        					<div id="left-5"></div>
+        				</div>
+        				
+        				<div id="centerColumn" class="floatLeft">
+        					<div id="center-0"></div>
+        					<div id="center-1"> 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+<input type="hidden" name="showInformationalAlert" value='false'>
+
+
+<input type="hidden" id="refMarkerBrowseButton" value="/ref=acx_tv_cover_bb" />
+<input type="hidden" id="refMarkerSaveButton" value="/ref=acx_tv_cover_sb" />
+<input type="hidden" id="refMarkerCancelButton" value="/ref=acx_tv_cover_cb" />
+<input type="hidden" id="refMarkerUploadButton" value="/ref=acx_tv_cover_up" />
+<input type="hidden" id="refMarkerReplaceButton" value="/ref=acx_tv_cover_rp" />
+<input type="hidden" id="refMarkerStyleButton" value="/ref=acx_tv_cover_style" />
+<input type="hidden" id="refMarkerCoverArtHelpButton" value="/ref=acx_tv_cover_help" />
+<input type="hidden" id="refMarkerCoverArtXButton" value="" />
+<input type="hidden" id="refMarkerCoverArtBackButton" value="" />
+
+
+<div id="titleViewSummary">
+    <div class="summaryCard">
+        <div class="floatLeft">
+            <div class="floatLeft" id="summaryImage">
+            	<div id="innerImage" >
+     		    	<form>               
+                    	<input type="hidden" name="imageFileExt" value="*.jpg;*.png;*.jpeg"/>
+                    	<input type="hidden" name="imageFileDesc" value="JPEG (.jpg)(.jpeg) and Portable Network Graphic (.png) files"/> 
+                    	<input type="hidden" name="replaceImageId" value="" />     
+                    </form>
+                    
+    		        
+    		       		
+    		       		           	            	
+		    		        
+		    		       		
+		    		        		<img src="https://images-na.ssl-images-amazon.com/images/I/41Orxwm-3NL._SL160_.jpg" alt="Appointment with the King: Ideas for Jump-starting Your Devotional Life" />
+		    		        	 
+		    					
+		    				
+		    			
+		    		
+    			</div>
+
+            </div>
+            <div class="floatLeft" id="summaryInfo" class="summaryInfo">
+               	<h1>Appointment with the King: Ideas for Jump-starting Your Devotional Life</h1>
+                <h2>By <span>Joel Comiskey</span></h2>
+    
+                
+                
+	                <div>
+	        	        <div class="floatLeft panel">
+	        	            <p class="summaryInfoTitle">Estimated Length: </p>
+	        	            <p class="summaryInfoDetail">4.2 hours</p>    	       	 
+	        	        </div>
+	        	    	<div class="floatLeft panel">
+	        	            <p class="summaryInfoTitle">Project Budget: </p>
+	        	            <p class="summaryInfoDetail">Royalty Share</p>  	 
+	        	        </div>
+	                    <div class="floatLeft panel">
+	                        <p class="summaryInfoTitle">Word Count: </p>
+	                        <p class="summaryInfoDetail">39,000</p>            
+	                    </div>
+	        	    </div>
+                
+                <div>
+                    <div class="floatLeft panel">
+                        <p class="summaryInfoTitle">Language: </p>
+                        <p class="summaryInfoDetail">English</p>               
+                    </div>
+        	        <div class="floatLeft panel">
+        	            <p class="summaryInfoTitle">Distribution: </p>
+        	            <p class="summaryInfoDetail">Exclusive</p>		       	 
+        	        </div>
+        	        <div class="floatLeft panel">
+        	            <p class="summaryInfoTitle">Territories: </p>
+        	            <p class="summaryInfoDetail">World</p>    	       	 
+        	        </div>
+                </div>
+
+            </div>
+       </div>
+          
+        
+        
+        	
+				
+			
+        	<script src='https://connect.facebook.net/en_US/all.js'></script>
+        	<div class="social-container" id="profile-social">
+        	<div class="fb-share"><div id='fb-root'></div><a onclick="postToFeed('/titleview/A1QZFCX1IB20Z5', '', 'Appointment with the King: Ideas for Jump-starting Your Devotional Life', 'ACX:Audiobook Creation Exchange', 'With full calendars and long lists of things to do, people often put on hold life\'s most important goal--building an intimate relationship with God. Often, believers wish to pursue the goal but are not sure how to do it. They feel frustrated or guilty when their attempts at personal devotions seem empty and unfruitful. With warm, encouraging writing, Joel Comiskey guides readers on how to set a daily appointment with the King and make it an exciting time they will look forward to. This book first answers the question \'Where do I start?\' with step-by-step instructions on how to spend time with God and practical ideas for experiencing him more fully. Second, it highlights the benefits of spending time with God, including joy, victory over sin, and spiritual guidance. Third, this book inspires and motivates those who already have a quiet time to press ahead and grow in their intimacy with God. An Appointment with the King discusses personal priorities, the use of Scripture, listening, place and time of day, meditation, increased power in prayer, and other helpful topics related to daily quiet time. The book will help Christians tap into God&sup1;s resources on a daily basis, so that even in the midst of busyness they can walk with him in intimacy and abundance. This book will teach you how to spend quality time with God each day, refreshing your soul and preparing you for the day ahead. Each chapter will provide practical suggestions on how to experience God more fully in your quiet time. The goal is to help you understand the whys and hows of spending time with God.', 0); return false;" href="javascript:void(0);">Share</a><p id='msg0'></p></div>
+        	<style>.titleProfileStatus{margin-bottom:10px;}#profile-social{padding-top:0;}</style><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><a href="https://twitter.com/intent/tweet?button_hashtag=ACX_com&text=I'm%20creating%20an%20audiobook%20on" class="twitter-hashtag-button">Tweet #ACX_com</a><p>Let your fans know about your progress:</p>
+        	</div>
+        
+    </div>
+     <div class="preflightForm">
+    	<h2>Almost Done!</h2>
+		<form name="nameEdit">
+			
+			
+			
+						
+			
+			
+		</form>
+	</div>
+    <div id="messageInputFormTopAlignContainer"></div>
+<!--cover art requirements modal html-->
+<div id="requirementsModalHolder">
+	<div id="requirementsModalContent"><small><a id="closeBut" href="javascript:void(0);" onclick="closeRequirements();"></a><h2>Cover Art Requirements<span style="float:right;font-size:10px;font-weight:normal;"><a href="http://g-ecx.images-amazon.com/images/G/01/Audible/en_US/acx/pdf/OfficialAudibleCoverArtRequirements.pdf" target="_blank" style="background-image:none;color:#3399FF;font-style:normal;position:relative;right:0;top:0;">Click here for the printable PDF version</a></span></h2><p class="tag">Product images submitted to Audible must meet the following requirements.</p><h3>Technical Requirements</h3><ul><li>- Images must contain both the name of the title and author(s)</li><li>- Images must be no smaller than 2400 X 2400 pixels in size but less than 8 MB.</li><li>- Images must be 24-bit, no smaller than 72dpi, and must be RGB (not CMYK).</li><li>- Images must be squared. The squared cover must be a true squared cover and cannot be rectangular with colored borders on the side. (CD case cover/jacket, e.g.)</li><li>- Images cannot refer to physical CD's or media other than the audio presented.</li><li>- Jewel cases, promotional stickers, and cellophane are not allowed.</li><li>- Pornographic and offensive materials are not allowed.</li></ul><h3>Acceptable File Type</h3><ul><li>- JPG</li></ul><h3>Adhering to Image Specifications</h3><p>Below are image samples which depict what a properly formatted cover should look like and some examples that would be rejected.</p><div class="imgHolder"><div class="imgBad"><img src="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/coverart/artwork-bad01.png"><span>Book format. Too narrow.</span></div><div class="imgBad"><img src="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/coverart/artwork-bad02.png"><span>Stretched</span></div><div class="imgGood"><img src="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/coverart/artwork-good.png"><span>Good!</span></div></div></small></div>
+</div>
+<!--end requirements-->
+	<div id="timsFormDiv" class="hidden">
+	 
+
+
+
+
+
+<form name="timsLaunchForm" action="" method="post">
+	        	
+   	
+   	
+   	<input type="hidden" name="Signature" value="" />
+   	<p>
+      	<a class="enabled beginTaxInterviewLink">
+			Click here to enter your tax information
+		</a>
+	</p>
+</form>
+
+	</div>
+</div>
+</div>
+        					<div id="center-2">
+
+
+
+
+
+
+<form>
+	<input type="hidden" id="jsValueloadingImageUrl" value='https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/icons/ajax-loader._CB192207470_.gif' />
+	<input type="hidden" id="newCount" value='0' />
+	<input type="hidden" id="likeCount" value='' />
+	<input type="hidden" id="dislikeCount" value='' />
+	<input type="hidden" id="bucket" value='CREATIVE_BRIEF' />
+</form>
+<div id="titleDetails">
+	<div class="tabOuterPanel">
+	    <div class="tabInnerPanel">
+			
+
+    
+
+
+
+
+
+	
+			         
+	
+	
+
+		                
+
+	        <div class="tabPanelTabsOuterPanel" style="background-position: 75px 42px;">
+	            <div class="tabPanelTabsInnerPanel">
+	            
+	            	
+	           		
+	                <div class="floatLeft tabPanelTabItems">
+	                	
+		    				 
+		                   		<div class="floatLeft tabPanelTabItem tabPanelSelectedTabItem"><span class='a'>ABOUT THIS TITLE</span></div>
+		                    
+		                    
+		                
+	                	
+		    				
+		                    
+		                    	<div class="floatLeft tabPanelTabItem"><a href='javascript:loadTitleTab("A1QZFCX1IB20Z5","AUDITION_READY", "true");'>&nbsp;&nbsp;AUDITION&nbsp;&nbsp;</a></div>
+		                    
+		                
+		                
+		    				
+		                    
+		                    	<div class="floatLeft tabPanelTabItem"><a href='javascript:loadTitleTab("A1QZFCX1IB20Z5","IN_PRODUCTION", "true");'>PRODUCE AUDIOBOOK</a></div>
+		                    
+		                
+		                
+		    				
+		                    
+		                    	<div class="floatLeft tabPanelTabItem"><a href='javascript:loadTitleTab("A1QZFCX1IB20Z5","COMPLETED", "true");'>AUDIOBOOK SALES</a></div>
+		                    
+		                
+	                    <br class="clear" />
+	                </div>
+	                
+	                
+	               
+	                <br class="clear" />
+	            </div>
+	        </div>            
+			<div class="tabContent" id="tabContent">           
+		        <div id="titleDetailContent">
+		        
+		        	 					
+					 
+		            <div class="section">
+			            
+							
+							
+								
+								
+								
+							
+						
+			            
+			            
+			            <span id="descriptionTextTruncated" class="titleDescription" >
+			            	
+
+
+
+
+
+
+
+With full calendars and long lists of things to do, people often put on hold life's most important goal--building an intimate relationship with God. Often, believers wish to pursue the goal but are not sure how to do it. They feel frustrated or guilty when their attempts at personal devotions seem empty and unfruitful. With warm, encouraging writing, Joel Comiskey guides readers on how to set a...
+
+
+			            </span>
+			            <span id="descriptionTextComplete" class="titleDescription hidden">
+			            	
+
+
+
+
+
+
+
+With full calendars and long lists of things to do, people often put on hold life's most important goal--building an intimate relationship with God. Often, believers wish to pursue the goal but are not sure how to do it. They feel frustrated or guilty when their attempts at personal devotions seem empty and unfruitful. With warm, encouraging writing, Joel Comiskey guides readers on how to set a daily appointment with the King and make it an exciting time they will look forward to. This book first answers the question 'Where do I start?' with step-by-step instructions on how to spend time with God and practical ideas for experiencing him more fully. Second, it highlights the benefits of spending time with God, including joy, victory over sin, and spiritual guidance. Third, this book inspires and motivates those who already have a quiet time to press ahead and grow in their intimacy with God. An Appointment with the King discusses personal priorities, the use of Scripture, listening, place and time of day, meditation, increased power in prayer, and other helpful topics related to daily quiet time. The book will help Christians tap into God&sup1;s resources on a daily basis, so that even in the midst of busyness they can walk with him in intimacy and abundance. This book will teach you how to spend quality time with God each day, refreshing your soul and preparing you for the day ahead. Each chapter will provide practical suggestions on how to experience God more fully in your quiet time. The goal is to help you understand the whys and hows of spending time with God.
+
+
+			            </span>
+			            <div>
+			            	<a onclick="document.getElementById('descriptionTextComplete').style.display='inline';document.getElementById('descriptionTextTruncated').style.display='none';document.getElementById('moreLink').style.display='none'" href="#more">
+			            	<span id="moreLink" class="showMoreLink">Show more</span>
+			            	</a>
+			            </div>
+		            </div>
+ 
+			            <div class="sectionLast">
+	
+                            
+				   		       <p class="subSectionHeading">Requires a narrator who can perform:</p>
+                            
+                            <div class="titleDetailField">
+	                            <div class="titleDetailFieldName">Genre:</div>
+	                            <div class="titleDetailFieldValue">&nbsp;
+					   			
+					   				
+					   					Religion & Spirituality
+					   				
+					   				
+					   			
+					   			</div>
+				   			</div>
+				   			<div class="titleDetailField">
+					   			<div class="titleDetailFieldName">Fiction/Nonfiction:</div>
+					   			<div class="titleDetailFieldValue">&nbsp;
+					   			
+					   				
+					   					Nonfiction
+					   				
+					   				
+					   			
+					   			</div>
+				   			</div>
+				   			<div class="titleDetailField">
+					   			<div class="titleDetailFieldName">Language:</div>
+					   			<div class="titleDetailFieldValue">&nbsp;
+					   			
+					   				
+					   					English
+					   				
+					   				
+					   			
+					   			</div>
+				   			</div>
+                            
+                            	<div class="titleDetailField">
+	                            	<div class="titleDetailFieldName">Gender:</div>
+	                            	<div class="titleDetailFieldValue">&nbsp;
+		                            
+		                                
+		                                    Male
+		                                
+		                                
+		                            
+		                            </div>
+	                            </div>
+	                            <div class="titleDetailField">
+		                            <div class="titleDetailFieldName">Character Age:</div>
+		                            <div class="titleDetailFieldValue">&nbsp;
+						   			
+						   				
+						   					Adult
+						   				
+						   				
+						   			
+						   			</div>
+					   			</div>
+					   			<div class="titleDetailField">
+						   			<div class="titleDetailFieldName">Accent:</div>
+						   			<div class="titleDetailFieldValue">&nbsp;
+						   			
+						   				
+						   					American-General American
+						   				
+						   				
+						   			
+						   			</div>
+					   			</div>
+					   			<div class="titleDetailField">
+						   			<div class="titleDetailFieldName">Vocal Style:</div>
+						   			<div class="titleDetailFieldValue">&nbsp;
+			                        
+			                            
+			                                Articulate
+			                            
+			                            
+			                        
+			                        </div>
+		                        </div>
+					        
+			           		<br class="clear" />
+	
+						</div>
+						<div class="sectionLast">
+							<p class="subSectionHeading">Title Information:</p>
+							<div class="titleDetailField"><div class="titleDetailFieldName">Date posted to ACX:</div><div class="titleDetailFieldValue">&nbsp;Oct 01 2017</div></div>
+							<div class="titleDetailField"><div class="titleDetailFieldName">Original publication date:</div><div class="titleDetailFieldValue">&nbsp;2014-01-19</div></div>
+							<div class="titleDetailField"><div class="titleDetailFieldName">Published by:</div><div class="titleDetailFieldValue">&nbsp;CCS Publishing</div></div>
+							<div class="titleDetailField"><div class="titleDetailFieldName">Amazon sales rank:</div><div class="titleDetailFieldValue">&nbsp;290955</div></div>
+							<div class="titleDetailField"><div class="titleDetailFieldName">Amazon rating:</div><div class="titleDetailFieldValue">&nbsp;<div class="acx-star"></div><span id="avgRating">4.6</span> (9 ratings)</div></div>
+							<div class="viewOnAmzn"><a class="a-link-emphasis" target="blank" href="https://www.amazon.com/Appointment-King-Ideas-Jump-starting-Devotional/dp/1935789139?SubscriptionId=AKIAICS7SJCTYHFDYKKA&tag=audible-acx-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1935789139">View this title on Amazon</a></div>
+						</div>
+					
+			   			<p class="subSectionHeading">Comments from the Rights Holder:</p>
+			            <span class="titleDescription">
+			            	
+
+
+
+
+
+
+
+I would be fine with a female voice .  This is an important book that has sold 17,000 + copies and continues to have an important impact. Audio will increase the book's appeal. <br /><br />The book gives step-by-step instructions on how to spend time with God and practical ideas for experiencing him more fully. It also  highlights the benefits of spending time with God, including joy, victory over sin, and spiritual guidance. <br /><br />This book will also inspire and motivate those who already have a quiet time to press ahead and grow in their intimacy with God. An Appointment with the King discusses personal priorities, the use of Scripture, listening, place and time of day, meditation, increased power in prayer, and other helpful topics related to daily quiet time. 
+
+
+			            	<br/>
+			            </span>
+		           		<br class="clear" />
+					
+				</div>
+				
+				
+			</div>
+      	</div>
+ 	</div>
+    
+    
+</div>
+
+<div id="timsFormDiv" class="hidden">
+	<input type="hidden" name="isTaxStatusValid" value=''>
+	<input type="hidden" name="currentTaxStatus" value=''>
+	
+ 	
+
+
+
+
+
+<form name="timsLaunchForm" action="" method="post">
+	        	
+   	
+   	
+   	<input type="hidden" name="Signature" value="" />
+   	<p>
+      	<a class="enabled beginTaxInterviewLink">
+			Click here to enter your tax information
+		</a>
+	</p>
+</form>
+
+</div></div>
+        					<div id="center-3"></div>
+        					<div id="center-4"></div>
+        					<div id="center-5"></div>
+        				</div>
+        				
+        				<div id="rightColumn" class="floatLeft">
+        					<div id="right-1"></div>
+        					<div id="right-2"></div>
+        					<div id="right-3"></div>
+        					<div id="right-4"></div>
+        					<div id="right-5"></div>
+        				</div>
+                        
+                        <br class="clear" />
+                    </div>
+                </div>
+				
+				<div id="bottomSlots">
+					<div id="bottom-1"></div>
+					<div id="bottom-2"></div>
+					<div id="bottom-3"></div>
+					<div id="bottom-4"></div>
+					<div id="bottom-5"></div>
+				</div>
+				
+				<div id="footerSlots">
+					<div id="footer-1" align="center">
+
+
+
+
+
+<div id="footer-container"><style>#acx-footer .link-container p{width:auto !important;}#footer-container #acx-footer ul.contact-list{float:right;margin-right: 33px;}#footer-container #acx-footer li.contact-header a{background: url("https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/icon-contact.png") no-repeat scroll 4px 4px transparent;display:block;line-height:25px;padding-left:30px;}#footer-container #acx-footer .help-container li.contact-header{padding:0;}#footer-container #acx-footer .help-container li.contact-us, #footer-container #acx-footer .help-container li.contact-uk, #footer-container #acx-footer .help-container li.contact-other{padding-left:33px;}#footer-container #acx-footer .help-container ul.contact-list li h5{color:#666;}#footer-container #acx-footer .help-container ul.contact-list li p{color:#666;font-size:12px;padding:3px 0;margin:0;}</style><div id="acx-footer"><div class="link-container help-container"><ul><li><h4><a href="http://www.acx.com/help/about-acx/200484860">About ACX</a></h4></li><li><a href="http://www.acx.com/help/earn-money-with-audiobooks/200487100">Earn Money with Audiobooks</a></li><li><a href="http://www.acx.com/help/how-you-benefit/200485370">How You Benefit</a></li><li><a href="http://www.acx.com/help/who-we-are/200494110">Who We Are</a></li><li><a href="http://www.acx.com/help/neil-gaiman/200680330">Neil Gaiman on ACX</a></li></ul><ul><li><h4><a href="http://www.acx.com/help/how-it-works/200484210">How it Works</a></h4></li><li class="item-video"><a href="javascript:void(0);">Watch the ACX Demo</a></li><li><a href="http://www.acx.com/help/authors/200484540">Authors</a></li><li><a href="http://www.acx.com/help/authors-as-narrators/200626860">Authors as Narrators</a></li><li><a href="http://www.acx.com/help/narrators/200484550">Narrators</a></li><li><a href="http://www.acx.com/help/print-publishers/200484620">Print Publishers</a></li><li><a href="http://www.acx.com/help/audio-publishers/200679720">Audio Publishers</a></li><li><a href="http://www.acx.com/help/agents/200484630">Agents</a></li><li><a href="http://www.acx.com/help/studio-professionals/200484640">Studio Professionals</a></li></ul><ul><li><h4><a href="http://www.acx.com/help/promote-yourself/200485310">Educational Resources</a></h4></li><li><a href="http://www.acx.com/help/promote-yourself/200485310">Promote Yourself</a></li><li><a href="http://www.acx.com/landing/acxu">ACX University</a></li><li><a href="http://www.acx.com/help/setup/202008260">Video Lessons &amp; Resources</a></li></ul><ul style="border-bottom: 1px solid #ccc;padding-bottom:10px;width:20%;"><li><h4><a href="https://audible-acx.custhelp.com/">Need Help?</a></h4></li><li><a href="https://audible-acx.custhelp.com/">Frequently Asked Questions</a></li><li><a href="http://www.acx.com/help/what-s-the-deal/200497690">What's the Deal (Financially)?</a></li><li><a href="http://www.acx.com/help/legal-contracts/200485430">Legal Documents</a></li></ul></div><div class="link-container blog-container"><ul><li><h4><a target="_blank" href="http://blog.acx.com/">
+
+Top Recent ACX Blog Posts:</a></h4></li><li><a target="_blank"href="http://bit.ly/2g54G6G">Check Your Production Before You Wreck Your Production</a><span>September 22, 2017</span></li><li><a target="_blank" href="http://bit.ly/2xMoqGd">On the Same Page: Communication for Audiobook Success</a><span>September 13, 2017</span></li><li><a target="_blank"href="http://bit.ly/2wBigHM">The Diary of a Canadian Author: Part One</a><span>August 22, 2017</span></li><li><a target="_blank"href=" http://blog.acx.com/subscribe-to-the-acx-blog-today/">Subscribe To The ACX Blog</a> <span> </span></li></ul><div class="social-links"><h4>Find Us</h4><a target="_blank" href="http://www.twitter.com/acx_com"><img src="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/icon-twitter.png"></a><a target="_blank" href="http://www.facebook.com/goacx"><img src="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/icon-facebook.png"></a><a target="_blank" href="https://www.youtube.com/user/AudibleACX"><img src="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/icon-youtube.png"></a></div><p><a href="http://www.acx.com/help/privacy-notice/200485460">Privacy Notice</a> | <a href="http://www.acx.com/help/conditions-of-use/200485440">Conditions of Use</a> | <a href="http://www.acx.com/help/cookies-and-internet-advertising/201411350">Interest-Based Ads Policy</a></p><p>&copy; 2011-2017 Audible, Inc.<br />Amazon, the Amazon logo, ACX, the ACX logo and Audiobook Creation Exchange are trademarks of Amazon.com, Inc. or its affiliates</p></div></div></div>
+
+
+</div>
+					<div id="footer-2"></div>
+					<div id="footer-3"></div>
+					<div id="footer-4"></div>
+					<div id="footer-5"></div>
+					<div id="footer-6"></div>
+					<div id="footer-7"></div>
+					<div id="footer-8"></div>
+					<div id="footer-9"></div>
+					<div id="footer-10"></div>
+				</div>
+			</div>
+		</div>
+	
+	 	 
+	 
+
+
+
+
+
+
+  <link rel="stylesheet" type="text/css" href="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/inca/css/acx-dojo/dijit/themes/claro/claro-2431789618._CB522946912_.css" />
+
+
+
+
+
+  <script type="text/javascript" src="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/inca/js/build/acx-dojo-4132480758._CB514923759_.js"></script>
+
+
+<!-- 
+
+ -->
+<link rel="shortcut icon" type="image/x-icon" href="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/favicon.ico" />
+<link rel="icon" type="image/x-icon" href="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/favicon.ico" />
+
+
+
+
+
+
+
+
+	 
+
+
+
+
+
+
+
+
+
+
+  <script type="text/javascript" src="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/inca/js/build/acx-global-451351746._CB515274369_.js"></script>
+
+
+<!-- 
+
+ -->
+<link rel="shortcut icon" type="image/x-icon" href="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/favicon.ico" />
+<link rel="icon" type="image/x-icon" href="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/favicon.ico" />
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    // the next 2 lines with inpage_linkid are for enhanced link attribution 
+    var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+    _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+    _gaq.push(['_setAccount', 'UA-15668219-1']);
+    _gaq.push(['_trackPageview']);
+	
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	    })();
+  </script>
+
+
+	 
+
+
+
+
+
+
+
+
+
+
+  <script type="text/javascript" src="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/inca/js/build/acx-title-profile-2320315799._CB514923583_.js"></script>
+
+
+<!-- 
+
+ -->
+<link rel="shortcut icon" type="image/x-icon" href="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/favicon.ico" />
+<link rel="icon" type="image/x-icon" href="https://images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/acx/images/favicon.ico" />
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    // the next 2 lines with inpage_linkid are for enhanced link attribution 
+    var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+    _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+    _gaq.push(['_setAccount', 'UA-15668219-1']);
+    _gaq.push(['_trackPageview']);
+	
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	    })();
+  </script>
+
+
+	</body>
+</html>
+
+
+
+
