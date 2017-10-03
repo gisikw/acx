@@ -7,6 +7,12 @@ class AcxTest < Minitest::Test
     enable_fixtures
   end
 
+  def test_query_all_titles
+    books = Acx::Title.all
+    assert books.length
+    assert_equal 2020597, books[0].sales_rank
+  end
+
   def test_a_title_accepts_a_uid
     book = Acx::Title.new(SAMPLE_BOOK)
   end
