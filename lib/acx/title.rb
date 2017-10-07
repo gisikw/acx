@@ -32,7 +32,23 @@ module Acx
 
     def sales_rank
       detail_field("Amazon sales rank")
-        .gsub(/[^0-9]/i,'').to_i
+        .to_i
+    end
+
+    DETAIL_STRING_MAP = {
+      genre: "Genre",
+      language: "Language",
+      gender: "Gender",
+      accent: "Accent",
+      character_age: "Character Age",
+      vocal_style: "Vocal Style",
+      published_by: "Published by",
+      amazon_sales_rank: "Amazon sales rank",
+      amazon_rating: "Amazon rating"
+    }
+
+    DETAIL_STRING_MAP.each do |method, pattern|
+      define_method(method) { detail_field(pattern) }
     end
 
     private
@@ -49,7 +65,7 @@ module Acx
       doc.xpath(
         "//div[contains(text(), '#{name}')]" \
         "/../div[@class='titleDetailFieldValue']"
-      ).text
+      ).text[1..-1].strip
     end
 
   end

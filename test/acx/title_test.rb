@@ -17,9 +17,17 @@ class AcxTest < Minitest::Test
     book = Acx::Title.new(SAMPLE_BOOK)
   end
 
-  def test_get_amazon_sales_rank
+  def test_title_details
     book = Acx::Title.new(SAMPLE_BOOK)
-    assert_equal 290955, book.sales_rank
+    assert_equal "Religion & Spirituality", book.genre
+    assert_equal "English", book.language
+    assert_equal "Male", book.gender
+    assert_equal "Adult", book.character_age
+    assert_equal "American-General American", book.accent
+    assert_equal "Articulate", book.vocal_style
+    assert_equal "CCS Publishing", book.published_by
+    assert_equal "290955", book.amazon_sales_rank
+    assert_equal "4.6 (9 ratings)", book.amazon_rating
   end
 
 end
